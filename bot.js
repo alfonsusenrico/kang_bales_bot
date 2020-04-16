@@ -31,4 +31,4 @@ function processCommand(receivedMessage) {
 	
 }
 
-client.login("")
+client.login("ISI TOKEN BOT DISCORD")
